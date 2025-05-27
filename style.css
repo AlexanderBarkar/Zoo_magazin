@@ -151,7 +151,7 @@ body {
 }
 
 .hero::before {
-  content: '$';
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -228,7 +228,7 @@ body {
 }
 
 .section-title::after {
-  content: '$';
+  content: '';
   position: absolute;
   bottom: -10px;
   left: 50%;
@@ -258,7 +258,7 @@ body {
 }
 
 .category-card::before {
-  content: '$';
+  content: '';
   position: absolute;
   top: 0;
   left: -100%;
